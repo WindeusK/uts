@@ -1,2 +1,0 @@
-"# school"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/WindeusK/school.gitgit push -u origin mai
-"# school"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/WindeusK/school.gitgit push -u origin main
