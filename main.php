@@ -47,21 +47,21 @@
         </div>
 
         <!--Button 2-->
-        div class="d-flex justify-content-center align-self-center">
+        <div class="d-flex justify-content-center align-self-center">
         <button type="button" class="btn btn-light rounded-lg mt-5" href="daftarPeminjaman.php">
                 Daftar Peminjaman
         </button>
         </div>
 
         <!--Button 3-->
-        div class="d-flex justify-content-center align-self-center">
+        <div class="d-flex justify-content-center align-self-center">
         <button type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
                 Tambah Buku
         </button>
         </div>
 
         <!--Button 4-->
-        div class="d-flex justify-content-center align-self-center">
+        <div class="d-flex justify-content-center align-self-center">
         <button type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
                 Tambah Peminjaman
         </button>
