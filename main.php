@@ -21,7 +21,12 @@
 
     <body class="bg-dark">
         <div class="container-fluid">
+        <!--
+            Beginning of container
+            Content goes below this line
+        -->
 
+        <!--Title-->
         <div class="d-flex justify-content-center align-self-center">
             
             <div class="jumbotron pt-4 text-white">
@@ -32,13 +37,39 @@
             </div>
         </div>
 
+        <!--Buttons group-->
+
+        <!--Button 1-->
         <div class="d-flex justify-content-center align-self-center">
         <button type="button" class="btn btn-light rounded-lg mt-5" href="daftarBuku.php">
                 Daftar Buku
         </button>
         </div>
 
+        <!--Button 2-->
+        div class="d-flex justify-content-center align-self-center">
+        <button type="button" class="btn btn-light rounded-lg mt-5" href="daftarPeminjaman.php">
+                Daftar Peminjaman
+        </button>
+        </div>
 
+        <!--Button 3-->
+        div class="d-flex justify-content-center align-self-center">
+        <button type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
+                Tambah Buku
+        </button>
+        </div>
+
+        <!--Button 4-->
+        div class="d-flex justify-content-center align-self-center">
+        <button type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
+                Tambah Peminjaman
+        </button>
+        </div>
+        <!--
+            End of container
+            Content goes ABOVE this line
+        -->
         </div>
     </body>
 </html>
