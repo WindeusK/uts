@@ -29,8 +29,22 @@ Must be able to perform CRUD Operations.
 
 ### v1.0.3 (14/04/23):
 
-**Changelogs**  
+**Changelog**  
 
 ##### (main.php)
 - Fixed bug where buttons are not displaying in the correct position in the center
 
+
+### v1.2.0 (14/04/23):
+
+**Changelog**  
+
+##### (main.php)
+- Fixed bug where buttons are not redirecting to target links
+
+##### (NEW daftarBuku.php)
+- Halaman yang bertujuan untuk menampilkan daftar buku yang telah ada
+- Tahap pengerjaan: sebagian navbar
+
+##### (DELETED test.html)
+- Tidak lagi dibutuhkan, Front-end file PHP bisa dijalankan menggunakan browser tanpa menggunakan XAMPP

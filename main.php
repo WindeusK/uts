@@ -41,30 +41,30 @@
 
         <!--Button 1-->
         <div class="d-flex justify-content-center align-self-center">
-        <button type="button" class="btn btn-light rounded-lg mt-5" href="daftarBuku.php">
+        <a type="button" class="btn btn-light rounded-lg mt-5" href="daftarBuku.php">
                 Daftar Buku
-        </button>
+        </a>
         </div>
 
         <!--Button 2-->
         <div class="d-flex justify-content-center align-self-center">
-        <button type="button" class="btn btn-light rounded-lg mt-5" href="daftarPeminjaman.php">
+        <a type="button" class="btn btn-light rounded-lg mt-5" href="daftarPeminjaman.php">
                 Daftar Peminjaman
-        </button>
+        </a>
         </div>
 
         <!--Button 3-->
         <div class="d-flex justify-content-center align-self-center">
-        <button type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
+        <a type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
                 Tambah Buku
-        </button>
+        </a>
         </div>
 
         <!--Button 4-->
         <div class="d-flex justify-content-center align-self-center">
-        <button type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
+        <a type="button" class="btn btn-light rounded-lg mt-5" href="tambahBuku.php">
                 Tambah Peminjaman
-        </button>
+        </a>
         </div>
         <!--
             End of container
