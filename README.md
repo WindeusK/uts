@@ -29,7 +29,7 @@ Must be able to perform CRUD Operations.
 
 ### v1.0.3 (14/04/23):
 
-** Changelogs  
+**Changelogs**  
 
 ##### (main.php)
 - Fixed bug where buttons are not displaying in the correct position in the center
