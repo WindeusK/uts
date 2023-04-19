@@ -26,6 +26,11 @@
             Content goes below this line
         -->
 
+        <?php
+            require ('koneksi.php');
+            $sql = "CREATE DATABASE IF NOT EXISTS tb_perpus"; 
+            $conn->query($sql);
+        ?>
         <!--Title-->
         <div class="d-flex justify-content-center align-self-center">
             

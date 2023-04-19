@@ -28,14 +28,37 @@
                 Code goes below this comment
             -->
             <!-- Navbar-->
-            <div class="navbar bg-white">
+            <nav class="navbar navbar-expand-sm bg-white">
                 <div class ="container-fluid">
                     <!-- Navbar Items -->
                     <ul class="navbar-nav">
-                        <li class="nav-item">
+                        <li class="nav-item mt-1">
                             <a class="navbar-brand" href="main.php">Home</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="daftarBuku.php">Daftar Buku</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="daftarPeminjaman.php">Peminjaman</a>
+                        </li>
                     </ul>
+                </div>
+            </nav>
+
+            <!--Table for showing data-->
+            <div class="card mt-5">
+                <!-- Card Header -->
+                <div class="card-header bg-white text-black ">
+				    Daftar Buku 
+			    </div>
+
+                <!-- Card Body (Table) -->
+                <div class="card-body">
+                    <table class="table-bordered">
+                        <th>
+                            
+                        </th>
+                    </div>
                 </div>
             </div>
 
